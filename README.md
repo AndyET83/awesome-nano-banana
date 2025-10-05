@@ -1,5 +1,5 @@
 <a id="readme-top"></a>
-# Awesome 🍌 Nano Banana Images ✨
+# Awesome 🍌 Nano Banana Images  ✨
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
 [![English](https://img.shields.io/badge/English-Click-yellow)](README_en.md)
